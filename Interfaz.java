@@ -3,7 +3,7 @@ import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
-
+//re loco
 public class Interfaz {
     private JFrame frame;
     private Tablero tablero;
