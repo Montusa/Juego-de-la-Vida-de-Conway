@@ -1,6 +1,6 @@
 public class Celula{
     private boolean estado;
-    private int[] posicion;
+    private int[] posicion = new int[2];
     private int vecinos;
 
     Celula(int[] posicion){
